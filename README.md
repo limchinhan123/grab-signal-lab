@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Grab Signal Lab 🧪</h1>
+  <h1>PMM Signal Lab 🧪</h1>
 
-  **Turn Malaysia market signals into actionable GrabFood hypotheses and test plans.**
+  **Turn live market signals into actionable product marketing hypotheses and test plans.**
 
   [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
   [![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://react.dev/)
@@ -18,7 +18,7 @@
 
 ## 📖 Overview
 
-**Grab Signal Lab** is an internal concept tool designed to bridge the gap between raw market data and creative strategy. Rather than staring at isolated trend graphs or news articles, product marketers can use this tool to automatically ingest live signals from Malaysia and synthesize them into a highly structured, testable **Hypothesis-to-Plan Brief**.
+**PMM Signal Lab** is a product marketing concept tool designed to bridge the gap between raw market data and creative strategy. Rather than staring at isolated trend graphs or news articles, product marketers can use this tool to automatically ingest live signals from Malaysia and synthesize them into a highly structured, testable **Hypothesis-to-Plan Brief**.
 
 The application actively mines localized search intent (Google Trends), regional news context (GDELT), and local lifestyle web signals. It then feeds this evidence into a constrained LLM pipeline that is strictly prompted to avoid generic advice—instead outputting non-obvious consumer tensions, rejected obvious answers, and concrete creative bets (Messaging, Product Surface, Behavioral).
 
