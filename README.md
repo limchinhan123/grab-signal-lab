@@ -12,6 +12,10 @@
 
 ---
 
+> **Disclaimer:** Grab and GrabFood are used purely as a **demonstration dataset** in this project. This tool is an independent, personal prototype and is **not affiliated with, endorsed by, or connected to Grab in any way**. All generated strategies are AI-synthesized hypotheses based on publicly available data. The architecture is fully adaptable to any food delivery brand, market, or product.
+
+---
+
 ## 📖 Overview
 
 **Grab Signal Lab** is an internal concept tool designed to bridge the gap between raw market data and creative strategy. Rather than staring at isolated trend graphs or news articles, product marketers can use this tool to automatically ingest live signals from Malaysia and synthesize them into a highly structured, testable **Hypothesis-to-Plan Brief**.
@@ -80,4 +84,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## ⚠️ Disclaimer
 
-This is an independent, conceptual prototype built for demonstration purposes. It is not affiliated with, sponsored by, or endorsed by Grab. All generated strategies are AI-synthesized hypotheses based on public data.
+Grab and GrabFood are used **as a demo dataset only**. This is an independent, personal prototype built to demonstrate a signal-to-strategy pipeline concept. It is **not affiliated with, sponsored by, or endorsed by Grab Holdings**. No proprietary Grab data is used — all signals are sourced from public APIs (Google Trends, GDELT, Google News RSS). The tool can be adapted to any brand, market, or product vertical.
